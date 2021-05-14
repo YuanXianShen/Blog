@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/YuanXianShen/Blog#readme",
   "dependencies": {
+    "@mediapipe/hands": "^0.1.1617147326",
     "art-template": "^4.13.2",
     "express": "^4.17.1",
     "express-art-template": "^1.0.1",
+    "jsdom": "^16.5.3",
     "mongoose": "^5.12.5"
   }
 }

@@ -30,7 +30,7 @@ const userSchema = new mongoose.Schema({
         default: 0
     }
 });
-
+// 创建用户集合
 const User = mongoose.model('User', userSchema);
 // User.create({
 //     username: 'ybg',
